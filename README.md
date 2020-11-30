@@ -5,7 +5,7 @@ Sistem Compare Campus menggunakan Laravel untuk memenuhi tahap penugasan interns
 * [Rancangan Data](https://github.com/oliviadiazf/Compare-Kampus/blob/main/Data%20Kampus.xlsx)
 
 ## Coding
-* [Compare Kampus](https://github.com/oliviadiazf/Compare-Kampus)
+* [Compare Kampus](https://github.com/oliviadiazf/Compare-Kampus/tree/master)
 
 ## ScreenShot
 <b>1. Tampilan Daftar Kampus
